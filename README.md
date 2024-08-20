@@ -1,40 +1,49 @@
 ## Hi there 👋
-# Hi, I'm Mohanad Hilles 👋
 
-**Senior Software Engineer | API Integration Expert | Agile Advocate**
+# I'm Mohanad Hilles
 
-I hold a Master's degree in Computer Systems and bring over 9 years of professional experience in software development. My expertise spans across back-end and front-end development, with a strong focus on PHP, Laravel, MySQL, and RESTful APIs. I thrive in fast-paced environments and excel in integrating APIs, ensuring seamless authentication and authorization, and delivering well-documented solutions.
+**Senior Software Engineer | API Integration Specialist | Agile Practitioner**
 
-### 🎯 Core Competencies
-- **Back-End Development:** PHP, Laravel, MySQL
+I am a seasoned software engineer with a Master's degree in Computer Systems and over 9 years of professional experience. My expertise bridges both back-end and front-end development, with deep proficiency in PHP, Laravel, MySQL, and RESTful APIs. I excel in integrating complex systems, ensuring robust authentication and authorization, and producing highly documented APIs.
+
+### 🎯 Core Expertise
+- **Back-End Engineering:** PHP, Laravel, MySQL
 - **API Integration:** RESTful APIs, Postman, Authentication & Authorization
 - **Front-End Development:** Vue.js, Bootstrap
-- **Version Control:** Git, Bitbucket, GitHub
+- **Version Control Systems:** Git, Bitbucket, GitHub
 - **Project Management:** Jira, Kanban, Agile methodologies
-- **Tools & Methodologies:** Continuous Integration, Deployment, Agile & Scrum
+- **DevOps & Tools:** Continuous Integration, Docker, Agile & Scrum practices
 
-### 🛠️ Technical Stack
-- **Languages:** PHP, JavaScript
-- **Frameworks:** Laravel, Vue.js, Bootstrap
+### 🛠️ Technical Proficiency
+- **Programming Languages:** PHP, JavaScript
+- **Frameworks & Libraries:** Laravel, Vue.js, Bootstrap
 - **Databases:** MySQL
 - **Version Control:** Git (GitHub, Bitbucket)
-- **Tools:** Postman, Jira, Docker
+- **DevOps Tools:** Docker, Jenkins
+- **Project Management Tools:** Jira, Confluence
 - **Methodologies:** Agile (Scrum, Kanban)
 
-### 🌟 Achievements
-- **Master’s Degree in Computer Systems**
-- Successfully led and delivered complex projects using Agile methodologies
-- Extensive experience in API integration and documentation
+### 🌍 Global Impact & Achievements
+- **Master’s Degree in Computer Systems** – Specialized in distributed systems and cloud computing.
+- Led cross-functional teams to deliver complex projects using Agile and DevOps practices.
+- Developed and integrated secure APIs for international clients, ensuring compliance with global standards.
+- Contributed to open-source projects, driving community engagement and collaboration.
 
-### 📈 GitHub Stats
+### 🚀 Key Projects
+- **[API Authentication Suite](https://github.com/mohanadhilles/hMac-services):** Developed a comprehensive suite of RESTful APIs with advanced authentication and authorization mechanisms, ensuring secure data exchange for global applications.
+- **[Vue.js, Laravel & Docker Integration](https://github.com/mohanadhilles/docker):** Built a scalable, containerized application with seamless integration between Vue.js, Laravel, and Docker, optimized for deployment across various environments.
+
+### 📈 GitHub Statistics
 ![Mohanad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanadhilles&show_icons=true&theme=radical)
 
-### 📫 Let's Connect
+### 📫 Connect with Me
 - **Email:** [muhilles@gmail.com](mailto:muhilles@gmail.com)
 - **LinkedIn:** [Mohanad Hilles](https://www.linkedin.com/in/mohanadhilles/)
+- **GitHub:** [Mohanad Hilles](https://github.com/mohanadhilles)
 
-### 🚀 Notable Projects
-- **[API authontication Project](https://github.com/mohanadhilles/hMac-services):** a suite of RESTful APIs with authentication and authorization mechanisms.
-- **[Vue.js & Laravel & Docker Integration](https://github.com/mohanadhilles/docker):**
-### 📚 Continuous Learning
-I'm always expanding my knowledge in the latest technologies and best practices, ensuring that my skills remain cutting-edge in an ever-evolving industry.
+### 📚 Lifelong Learning
+As a continuous learner, I am committed to staying at the forefront of technology trends. I actively pursue certifications, attend conferences, and engage with the global developer community to enhance my skills and contribute to innovative projects.
+
+---
+
+Feel free to explore my repositories, and reach out if you'd like to collaborate or discuss anything tech-related.
