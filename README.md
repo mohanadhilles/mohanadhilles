@@ -29,8 +29,10 @@
 
 ## &nbsp;◢ &nbsp;About
 
-I'm a Senior Software Engineer with **7+ years of experience** designing **multi-tenant platforms** and **API-first architectures** across fintech, e-wallet, loyalty, voucher, and B2B API domains. I currently work as a Senior Software Engineer at **WalaPlus**, where I build large-scale system integrations. I care about clean code, sound design, and software that holds up in production.
-
+I'm a Senior Backend Engineer with 8+ years of experience building and scaling high-availability systems using PHP
+(Laravel) and Node.js (NestJS). Experienced in SaaS, Fintech & Payment Solutions, and loyalty & rewards platforms
+serving 4M+ users and 20M+ transactions. Skilled in backend architecture, microservices, JWT, Passport, RBAC,
+MySQL, PostgreSQL, Redis, RabbitMQ, Docker, CI/CD, AWS, and AI-assisted development with Claude Code & Cursor.
 <div align="center">
 
 `Backend Engineering` &nbsp; `RESTful APIs` &nbsp; `Microservices` &nbsp; `Authentication & Authorization` &nbsp; `Containerization` &nbsp; `Agile / Scrum`
